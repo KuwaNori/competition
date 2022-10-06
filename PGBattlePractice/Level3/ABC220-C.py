@@ -1,5 +1,4 @@
 # from 21:58
-import math
 
 n = int(input())
 A = list(map(int, input().split()))
